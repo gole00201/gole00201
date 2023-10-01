@@ -1,16 +1,33 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM0bXZoODNtZmYwbW5vOHd3eHhsMWNmbW5rM2Q0MnA5czcxZ3hmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
+</div>
 
-<!--
-**gole00201/gole00201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I’m Egor Volkov!
+## :man_technologist: About Me :
+Hello! I’m software developer from Russia.
+I have completed my studies at Peter the Great St. Petersburg Transport University (SPbTU) with honors, majoring in Transportation. I was awarded the Ministry of Transport medal for excellent academic performance. Currently, I am leading the student scientific society at the SPbPU Faculty of Automation and Intelligent Technologies. Additionally, and now I am working at PGUPS CRTC as an embedded systems programmer and pursuing a Ph.D. at SPbTU.
+## :hammer_and_wrench: Languages and Tools :
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Pyt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLAb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m learning :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPI" alt="RPI" width="40" height="40"/>&nbsp;
+</div>
+
+## 🔭 I’m currently working on :
+I'm working on a project for an automatic workstation for a railway electrician. You can find the repository for this project ![here](https://github.com/gole00201/CRTCvupz).
+I am always eager to learn new technologies and approach new tasks with enthusiasm!😄
+
+## ![](https://komarev.com/ghpvc/?username=gole00201&color=dc143c&color=green)
+
+![PGUPS](https://school292.spb.ru/wp-content/uploads/2020/02/%D0%9F%D0%93%D0%A3%D0%9F%D0%A1.jpg)
