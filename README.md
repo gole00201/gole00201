@@ -28,6 +28,9 @@ I have completed my studies at Peter the Great St. Petersburg Transport Universi
 I'm working on a project for an automatic workstation for a railway electrician. You can find the repository for this project ![here](https://github.com/gole00201/CRTCvupz).
 I am always eager to learn new technologies and approach new tasks with enthusiasm!😄
 
-## ![](https://komarev.com/ghpvc/?username=gole00201&color=dc143c&color=green)
+## :fire: Stats  ![](https://komarev.com/ghpvc/?username=gole00201&color=dc143c&color=green) :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gole00201&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![PGUPS](https://school292.spb.ru/wp-content/uploads/2020/02/%D0%9F%D0%93%D0%A3%D0%9F%D0%A1.jpg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gole00201&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gole00201)](https://github.com/anuraghazra/github-readme-stats)
